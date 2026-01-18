@@ -1,4 +1,4 @@
-<h2 id="sobre-o-projeto">1. ⚛️ React CRUD: Sistema de Cadastro de Usuários ⚛️</h2>
+<h2 id="sobre-o-projeto">1. React CRUD: Sistema de Cadastro de Usuários ⚛️</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-React%20%7C%20Bootstrap-61DAFB)
