@@ -4,7 +4,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-React%20%7C%20Bootstrap-61DAFB)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/react-crud/blob/main/LICENSE)
 
-![Preview do CRUD React](src/assets/imgs/crud-preview.png)
+![Preview do CRUD React](src/assets/images/crud-preview.png)
 
 Bem-vindo ao **React CRUD**! Este é um projeto full-stack (frontend) que simula um sistema completo de gerenciamento de usuários. Utilizando uma arquitetura baseada em componentes funcionais e o poder do **React**, a aplicação oferece uma interface administrativa moderna e responsiva. O projeto foca em padrões de design escaláveis, separando claramente as responsabilidades entre navegação, cabeçalho, conteúdo e rodapé.
 
@@ -38,7 +38,7 @@ Experimente a interface do sistema administrativo agora mesmo:
 
 <div align="left">
   <a href="https://domisnnet.github.io/react-crud/" target="_blank">
-    <img alt="Botão Acessar" src="src/assets/imgs/botão.webp" height="70" width="70" />
+    <img alt="Botão Acessar" src="src/assets/images/botão.webp" height="70" width="70" />
   </a>
 </div>
 
@@ -135,4 +135,6 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/assets/imgs/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/assets/images/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
