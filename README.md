@@ -123,7 +123,7 @@ O React CRUD é o resultado de estudos sobre o ecossistema de componentes:
 | **Dev Front-end** | **DomisDev** | Implementação de componentes, lógica de estado e Grid Layout. |
 | **Design System** | **Bootstrap** | Fornecimento de componentes visuais e responsividade. |
 | **Educação** | **Cod3r Cursos** | Base técnica para estruturação do projeto CRUD em React. |
-| **Apoio Técnico** | **Google Gemini** | Padronização King-Domfy e refinamento documental. |
+| **Apoio Técnico** | **Google Gemini** | Padronização e refinamento documental. |
 
 ---
 
