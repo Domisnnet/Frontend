@@ -4,7 +4,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-React%20%7C%20Bootstrap-61DAFB)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/react-crud/blob/main/LICENSE)
 
-![Preview do CRUD React](src/assets/images/)
+![Preview do Frontend](src/assets/images/)
 
 Bem-vindo ao **React CRUD**! Este é um projeto full-stack (frontend) que simula um sistema completo de gerenciamento de usuários. Utilizando uma arquitetura baseada em componentes funcionais e o poder do **React**, a aplicação oferece uma interface administrativa moderna e responsiva. O projeto foca em padrões de design escaláveis, separando claramente as responsabilidades entre navegação, cabeçalho, conteúdo e rodapé.
 
@@ -70,12 +70,15 @@ Cada parte da interface (Nav, Logo, Footer) é um componente independente que re
 
 ---
 
-<h2 id="codigo-fonte">6. 📂 Repositório</h2>
+<h2 id="codigo-fonte">6. 🚀 Instalação e Configuração Local</h2>
 
-Explore a estrutura de diretórios e os componentes React:
+```bash
+# Clonar o repositório
+git clone [https://github.com/Domisnnet/Frontend.git](https://github.com/Domisnnet/Frontend.git)
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Freact--crud-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/react-crud)
-
+# Acessar a pasta
+cd Frontend
+```
 ---
 
 <h2 id="como-contribuir">7. 🤝 Como Contribuir</h2>
@@ -88,7 +91,13 @@ Siga os passos abaixo para evoluir este CRUD:
 | **02** | **Branch** | `git checkout -b feature/ValidacaoCampos` |
 | **03** | **Commit** | `git commit -m 'feat: adição de validação de e-mail'` |
 | **04** | **Push** | `git push origin feature/ValidacaoCampos` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Frontend/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Frontend/compare) 
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Projeto-Alura?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Frontend/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Frontend/issues/new)
 
 ---
 
