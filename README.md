@@ -4,7 +4,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-React%20%7C%20Bootstrap-61DAFB)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/react-crud/blob/main/LICENSE)
 
-![Preview do CRUD React](src/assets/images/crud-preview.png)
+![Preview do CRUD React](src/assets/images/)
 
 Bem-vindo ao **React CRUD**! Este é um projeto full-stack (frontend) que simula um sistema completo de gerenciamento de usuários. Utilizando uma arquitetura baseada em componentes funcionais e o poder do **React**, a aplicação oferece uma interface administrativa moderna e responsiva. O projeto foca em padrões de design escaláveis, separando claramente as responsabilidades entre navegação, cabeçalho, conteúdo e rodapé.
 
@@ -37,7 +37,7 @@ Bem-vindo ao **React CRUD**! Este é um projeto full-stack (frontend) que simula
 Experimente a interface do sistema administrativo agora mesmo:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/react-crud/" target="_blank">
+  <a href="https://github.com/Domisnnet/Frontend/" target="_blank">
     <img alt="Botão Acessar" src="src/assets/images/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -84,11 +84,11 @@ Siga os passos abaixo para evoluir este CRUD:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/react-crud/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Frontend/fork) |
 | **02** | **Branch** | `git checkout -b feature/ValidacaoCampos` |
 | **03** | **Commit** | `git commit -m 'feat: adição de validação de e-mail'` |
 | **04** | **Push** | `git push origin feature/ValidacaoCampos` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/react-crud/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Frontend/compare) |
 
 ---
 
@@ -110,7 +110,7 @@ Siga os passos abaixo para evoluir este CRUD:
 
 Analise a lógica de renderização e os estilos globais:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/react-crud/tree/main)
+[![Repositório](https://img.shields.io/badge/Repositorio-Frontend-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Frontend/tree/main)
 
 ---
 
@@ -129,7 +129,7 @@ O React CRUD é o resultado de estudos sobre o ecossistema de componentes:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/react-crud/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Frontend/blob/main/LICENSE)
 
 ---
 
